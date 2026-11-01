@@ -1,48 +1,89 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Fatima-tu-Zuhra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Fatima-tu-Zuhra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h2>🌸 Welcome to My GitHub Profile 🌸</h2>
+# 🌸 Hi, I'm Fatima-tu-Zuhra! 💗
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=1000&color=CB85D9&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%97;MS+Software+Engineering+Student+%F0%9F%8E%93;AI+%26+DevSecOps+Enthusiast+%F0%9F%A4%96;Web+%26+Android+Developer+%F0%9F%92%BB" />
+### MS Software Engineering Student | Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=1000&color=CB85D9&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%97;AI+%26+DevSecOps+Enthusiast+%F0%9F%A4%96;Web+%26+Android+Developer+%F0%9F%92%BB;Learning+and+Building+Every+Day+%E2%9C%A8"/>
+
+💜 Welcome to my creative coding space! 💜
 
 </div>
 
 ---
 
-## 💜 About Me
+## 🌷 About Me
 
 - 🎓 MS Software Engineering Student
-- 💻 BS Software Engineering Graduate
+- 🎓 BS Software Engineering Graduate
 - 🤖 Interested in Artificial Intelligence
-- 🌐 Web & Android Development
+- 🌐 Web Development
+- 📱 Android Development
 - 🔐 Exploring DevSecOps
 - 🏗️ Research Interests: AI + DevSecOps + Software Architecture
+- 🌱 Always learning and building new things.
 
-## 🌷 My Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💻 Languages & Technologies
 
-## 🚀 Featured Project
+<div align="center">
 
-### 🌸 AI-Based Career Advisor
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-An intelligent platform that helps students explore career paths, universities and educational opportunities.
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 AI-Based Career Advisor
+
+An intelligent platform that helps students explore career paths, university options and educational opportunities.
+
+**Technologies:** React | Node.js | MongoDB | JWT
+
+### 🔐 AI-Assisted DevSecOps Research
+
+Exploring AI-assisted security analysis, secure software architecture and DevSecOps pipeline improvements.
+
+**Research Areas:** Artificial Intelligence | DevSecOps | Software Architecture
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=zuhramalik&show_icons=true&theme=dracula&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=zuhramalik&show_icons=true&theme=dracula&hide_border=true" width="95%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhramalik&theme=dracula&hide_border=true" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhramalik&layout=compact&theme=dracula&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 💌 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/zuhramalik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fatima-malik-299633263/">
+<img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -50,9 +91,8 @@ An intelligent platform that helps students explore career paths, universities a
 
 <div align="center">
 
-### 💗 Keep Learning | Keep Building | Keep Growing 💗
+### 🌸 Keep Learning | Keep Building | Keep Growing 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 </div>
-

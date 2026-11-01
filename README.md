@@ -1,2 +1,2 @@
-# zuhra-malik
-Personal GitHub Portfolio | Software Engineering ,AI ,DevSecOps , Web &amp; Android Development , Software Architecture 
+# zuhramalik
+🌸 Personal Portfolio | Software Engineering • Artificial Intelligence • DevSecOps • Web & Android Development • Software Architecture 💜

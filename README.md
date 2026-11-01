@@ -40,7 +40,7 @@ An intelligent platform that helps students explore career paths, universities a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zuhramalik&show_icons=true&theme=dracula&hide_border=true" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zuhramalik&show_icons=true&theme=dracula" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhramalik&theme=dracula&hide_border=true" width="90%" />
 

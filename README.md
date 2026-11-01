@@ -19,11 +19,11 @@
 
 - 🎓 MS Software Engineering Student
 - 🎓 BS Software Engineering Graduate
-- 🤖 Interested in Artificial Intelligence
+- 🤖 Artificial Intelligence Enthusiast
 - 🌐 Web Development
 - 📱 Android Development
-- 🔐 Exploring DevSecOps
-- 🏗️ Research Interests: AI + DevSecOps + Software Architecture
+- 🔐 DevSecOps Enthusiast
+- 🏗️ Research: AI + DevSecOps + Software Architecture
 - 🌱 Always learning and building new things.
 
 ---
@@ -33,9 +33,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -49,7 +51,7 @@
 
 ### 🎓 AI-Based Career Advisor
 
-An intelligent platform that helps students explore career paths, university options and educational opportunities.
+An intelligent platform that helps students explore career paths, universities and educational opportunities.
 
 **Technologies:** React | Node.js | MongoDB | JWT
 
@@ -57,7 +59,7 @@ An intelligent platform that helps students explore career paths, university opt
 
 Exploring AI-assisted security analysis, secure software architecture and DevSecOps pipeline improvements.
 
-**Research Areas:** Artificial Intelligence | DevSecOps | Software Architecture
+**Research Areas:** AI | DevSecOps | Software Architecture
 
 ---
 
@@ -65,9 +67,9 @@ Exploring AI-assisted security analysis, secure software architecture and DevSec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zuhramalik&show_icons=true&theme=dracula&hide_border=true" width="95%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=zuhramalik&show_icons=true&theme=dracula&hide_border=true" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhramalik&layout=compact&theme=dracula&hide_border=true" width="95%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zuhramalik&layout=compact&theme=dracula&hide_border=true&langs_count=10" width="95%"/>
 
 </div>
 
